@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Handles spawning objects, money and bombs.
+ */
+ 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

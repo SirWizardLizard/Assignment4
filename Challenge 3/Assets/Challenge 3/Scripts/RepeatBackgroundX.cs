@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Repeats the background at the halfway point
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

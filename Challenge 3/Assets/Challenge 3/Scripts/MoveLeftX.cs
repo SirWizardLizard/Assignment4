@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Moves objets left at a fixed speed destroys them when they are out of bounds
+ * and stops their movement
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
