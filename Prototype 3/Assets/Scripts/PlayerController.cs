@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * handles sounds and animations for player as well as jumping movement.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

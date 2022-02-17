@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Adds to score whenever the player enters a trigger zone for the first time
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

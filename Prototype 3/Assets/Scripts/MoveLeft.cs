@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Causes objets to move left while the game is not over. Destroys out of bounds objects.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Zechariah Burrus
+ * Assignment 4
+ * Spawns obstacles every two seconds
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

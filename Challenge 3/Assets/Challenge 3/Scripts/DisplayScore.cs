@@ -1,6 +1,6 @@
 ﻿/*
  * Zechariah Burrus
- * Assignment 2
+ * Assignment 4
  * Handles win condition and shows the score text
  */
 
